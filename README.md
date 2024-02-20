@@ -3,6 +3,8 @@
 
 🌱 I’m currently working to improve my skills on: **Ruby, Ruby on Rails, HTML, CSS and JavaScript.**
 
+💻 I finished the Le Wagon Web Development Bootcamp.
+
 🚀 My bootcamp projects:
 - <a href="https://github.com/EleniMarli/green_thumb">Green Thumb</a>: a Ruby on Rails plant care app, for small screens, hosted here: <a href="https://www.green-thumb.me/">🍃</a>
 - <a href="https://github.com/EleniMarli/rent_a_dress">RentADress</a>: a Ruby on Rails reinterpretation of AirBnB with dresses, for big screens, hosted here: <a href="https://rent-a-dress-cdc99ed9126a.herokuapp.com/">👗</a>
