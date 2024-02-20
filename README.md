@@ -3,18 +3,18 @@
 
 🌱 I’m currently working to improve my skills on: **Ruby, Ruby on Rails, HTML, CSS and JavaScript.**
 
-💻 I finished the Le Wagon Web Development Bootcamp.
+💻 I finished the **Le Wagon Web Development Bootcamp**.
 
 🚀 My bootcamp projects:
-- <a href="https://github.com/EleniMarli/green_thumb">Green Thumb</a>: a Ruby on Rails plant care app, for small screens, hosted here: <a href="https://www.green-thumb.me/">🍃</a>
-- <a href="https://github.com/EleniMarli/rent_a_dress">RentADress</a>: a Ruby on Rails reinterpretation of AirBnB with dresses, for big screens, hosted here: <a href="https://rent-a-dress-cdc99ed9126a.herokuapp.com/">👗</a>
+- <a href="https://github.com/EleniMarli/green_thumb">**Green Thumb**</a>: a Ruby on Rails plant care app, for small screens, hosted here: <a href="https://www.green-thumb.me/">🍃</a>
+- <a href="https://github.com/EleniMarli/rent_a_dress">**RentADress**</a>: a Ruby on Rails reinterpretation of AirBnB with dresses, for big screens, hosted here: <a href="https://rent-a-dress-cdc99ed9126a.herokuapp.com/">👗</a>
 
 🍴 A personal project I did prior to the bootcamp to teach myself Python and SQL: 
-- <a href="https://github.com/EleniMarli/recipes_project">Recipes Project</a>: a Python app to store recipes and create customisable shopping lists with a simple UI.
+- <a href="https://github.com/EleniMarli/recipes_project">**Recipes Project**</a>: a Python app to store recipes and create customisable shopping lists with a simple UI.
 
-🏠 Living in Berlin, Germany.
+🏠 Living in **Berlin, Germany**.
 
-📫 How to reach me: **elenimarli@yahoo.gr**
+📫 How to reach me: elenimarli@yahoo.gr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
