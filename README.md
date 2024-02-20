@@ -1,5 +1,5 @@
 <h1>Hi, I'm Eleni 👋</h1>
-<h3>A software developer with a medical background, passionate for coding, art, teamwork and women's empowerment. Very excited to keep learning! 🤓</h3>
+<h3>A software developer with a medical background, passionate for coding, art, teamwork and women's empowerment. I am very excited to keep exploring the coding and tech world! 🤓</h3>
 
 🌱 I’m currently working to improve my skills on: **Ruby, Ruby on Rails, HTML, CSS and JavaScript.**
 
