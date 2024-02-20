@@ -8,7 +8,7 @@
 - <a href="https://github.com/EleniMarli/rent_a_dress">RentADress</a>: reinterpretation of AirBnB with dresses for big screens, hosted here: <a href="https://rent-a-dress-cdc99ed9126a.herokuapp.com/">👗</a>
 
 🍴 A personal project I did prior to the bootcamp to teach myself Python and SQL: 
-- <a href="https://github.com/EleniMarli/recipes_project">Recipes Project</a>: a recipe book and shopping list generator with a simple UI.
+- <a href="https://github.com/EleniMarli/recipes_project">Recipes Project</a>: a Python app to store recipes and create customisable shopping lists with a simple UI.
 
 🏠 Living in Berlin, Germany.
 
