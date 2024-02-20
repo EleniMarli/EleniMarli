@@ -10,6 +10,8 @@
 🍴 A personal project I did to teach myself Python and SQL: 
 - <a href="https://github.com/EleniMarli/recipes_project">Recipes Project</a>: a recipe book and shopping nlist generator with simple UI.
 
+🏠 Living in Berlin, Germany.
+
 📫 How to reach me: **elenimarli@yahoo.gr**
 
 <h3 align="left">Connect with me:</h3>
