@@ -1,17 +1,16 @@
 <h1>Hi 👋, I'm Eleni</h1>
 <h3>A software developer with a medical background, passionate for coding, art, teamwork and women's empowerment. Very excited to keep learning! 🤓</h3>
 
-- 🌱 I’m currently working to improve my skills on: **Ruby, Ruby on Rails, HTML, CSS and JavaScript.**
+🌱 I’m currently working to improve my skills on: **Ruby, Ruby on Rails, HTML, CSS and JavaScript.**
 
-- 🚀 My bootcamp projects:
-<ul>
-<li>[https://github.com/EleniMarli/green_thumbr](https://github.com/EleniMarli/green_thumbr)</li>
-<li>[https://github.com/EleniMarli/rent_a_dress](https://github.com/EleniMarli/rent_a_dress)</li>
-</ul>
+🚀 My bootcamp projects:
+- <a href="https://github.com/EleniMarli/green_thumb">Green Thumb</a>: a Ruby on Rails plant care app.
+- <a href="https://github.com/EleniMarli/rent_a_dress">RentADress</a>: reinterpretation of AirBnB with dresses rental.
 
-- 🍴 A personal project I did to teach myself Python and SQL: [https://github.com/EleniMarli/recipes_project](https://github.com/EleniMarli/recipes_project)
+🍴 A personal project I did to teach myself Python and SQL: 
+- <a href="https://github.com/EleniMarli/recipes_project">Recipes Project</a>: a recipe book and shopping nlist generator with simple UI.
 
-- 📫 How to reach me: **elenimarli@yahoo.gr**
+📫 How to reach me: **elenimarli@yahoo.gr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
