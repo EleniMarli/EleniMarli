@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Eleni</h1>
-<h3 align="center">A software developer with a medical background, passionate for coding, art, teamwork and women's empowerment. Very excited to keep learning! 🤓</h3>
+<h1>Hi 👋, I'm Eleni</h1>
+<h3>A software developer with a medical background, passionate for coding, art, teamwork and women's empowerment. Very excited to keep learning! 🤓</h3>
 
-- 🌱 I’m currently working to improve my skills on **Ruby, Ruby on Rails, HTML, CSS and JavaScript.**
+- 🌱 I’m currently working to improve my skills on: **Ruby, Ruby on Rails, HTML, CSS and JavaScript.**
 
-- 🚀 My bootcamp projects:  [https://github.com/EleniMarli/green_thumbr](https://github.com/EleniMarli/green_thumbr)
-                             [https://github.com/EleniMarli/rent_a_dress](https://github.com/EleniMarli/rent_a_dress)
+- 🚀 My bootcamp projects:
+<ul>
+<li>[https://github.com/EleniMarli/green_thumbr](https://github.com/EleniMarli/green_thumbr)</li>
+<li>[https://github.com/EleniMarli/rent_a_dress](https://github.com/EleniMarli/rent_a_dress)</li>
+</ul>
 
 - 🍴 A personal project I did to teach myself Python and SQL: [https://github.com/EleniMarli/recipes_project](https://github.com/EleniMarli/recipes_project)
 
