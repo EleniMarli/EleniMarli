@@ -4,8 +4,8 @@
 🌱 I’m currently working to improve my skills on: **Ruby, Ruby on Rails, HTML, CSS and JavaScript.**
 
 🚀 My bootcamp projects:
-- <a href="https://github.com/EleniMarli/green_thumb">Green Thumb</a>: a Ruby on Rails plant care app for small screens, hosted <a href="https://www.green-thumb.me/">🍃</a>
-- <a href="https://github.com/EleniMarli/rent_a_dress">RentADress</a>: reinterpretation of AirBnB with dresses for big screens, hosted <a href="https://rent-a-dress-cdc99ed9126a.herokuapp.com/">👗</a>
+- <a href="https://github.com/EleniMarli/green_thumb">Green Thumb</a>: a Ruby on Rails plant care app for small screens, hosted here: <a href="https://www.green-thumb.me/">🍃</a>
+- <a href="https://github.com/EleniMarli/rent_a_dress">RentADress</a>: reinterpretation of AirBnB with dresses for big screens, hosted here: <a href="https://rent-a-dress-cdc99ed9126a.herokuapp.com/">👗</a>
 
 🍴 A personal project I did to teach myself Python and SQL: 
 - <a href="https://github.com/EleniMarli/recipes_project">Recipes Project</a>: a recipe book and shopping list generator with a simple UI.
