@@ -5,7 +5,7 @@
 
 🚀 My bootcamp projects:
 - <a href="https://github.com/EleniMarli/green_thumb">Green Thumb</a>: a Ruby on Rails plant care app.
-- <a href="https://github.com/EleniMarli/rent_a_dress">RentADress</a>: reinterpretation of AirBnB with dresses rental.
+- <a href="https://github.com/EleniMarli/rent_a_dress">RentADress</a>: reinterpretation of AirBnB with dresses.
 
 🍴 A personal project I did to teach myself Python and SQL: 
 - <a href="https://github.com/EleniMarli/recipes_project">Recipes Project</a>: a recipe book and shopping nlist generator with simple UI.
