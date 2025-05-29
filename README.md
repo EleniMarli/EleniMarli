@@ -1,18 +1,8 @@
 <h1>Hi, I'm Eleni 👋</h1>
-<h3>A software developer with a medical background, passionate for coding, art, teamwork and women's empowerment. I am very excited to keep exploring the coding and tech world! 🤓</h3>
 
-🌱 I’m currently working to improve my skills on: **Ruby, Ruby on Rails, HTML, CSS and JavaScript.**
+<h3>I'm a software developer with a background in medicine. I enjoy working with others, pick up new technologies and skills quickly and care deeply about creating space for women to grow and lead in tech. I have professional experience with fullstack development, but a personal preference for backend.</h3>
 
-💻 I finished the **Le Wagon Web Development Bootcamp**.
-
-🚀 My bootcamp projects:
-- <a href="https://github.com/EleniMarli/green_thumb">**Green Thumb**</a>: a Ruby on Rails plant care app, for small screens, hosted here: <a href="https://www.green-thumb.me/">🍃</a>
-- <a href="https://github.com/EleniMarli/rent_a_dress">**RentADress**</a>: a Ruby on Rails reinterpretation of AirBnB with dresses, for big screens, hosted here: <a href="https://rent-a-dress-cdc99ed9126a.herokuapp.com/">👗</a>
-
-🍴 A personal project I did prior to the bootcamp to teach myself Python and SQL: 
-- <a href="https://github.com/EleniMarli/recipes_project">**Recipes Project**</a>: a Python app to store recipes and create customisable shopping lists with a simple UI.
-
-🏠 Living in **Berlin, Germany**.
+🏠 Based in **Berlin, Germany**.
 
 📫 How to reach me: elenimarli@yahoo.gr
 
