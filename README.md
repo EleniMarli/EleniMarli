@@ -51,10 +51,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://en.opensuse.org/images/2/2c/Eclipse_icon.png" alt="eclipseide" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://eclipseide.org" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="vscode" width="40" height="40"/>
+    <img src="https://en.opensuse.org/images/2/2c/Eclipse_icon.png" alt="eclipseide" width="40" height="40"/>
   </a>  
   <a href="https://ollama.com" target="_blank" rel="noreferrer">
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/ollama.png" alt="ollama" width="40" height="40"/>
